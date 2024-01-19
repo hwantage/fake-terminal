@@ -1,15 +1,4 @@
----
-title: "Xterm.js 를 이용한 fake terminal 웹 제작"
-date: 2024-01-19T10:29:50+09:00
-draft: false # Set 'false' to publish
-tableOfContents: false # Enable/disable Table of Contents
-description: "웹 사이트에서 fake terminal 제작하는 방법."
-categories:
-  - Front-end
-tags:
-  - Xterm.js
-  - fake terminal
----
+
 
 [Xterm.js](https://xtermjs.org/) 를 이용하여 웹 사이트에 fake terminal 을 구현합니다.
 
