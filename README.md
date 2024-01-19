@@ -1,4 +1,4 @@
-
+![image](https://github.com/hwantage/fake-terminal/assets/82494320/f1ac3169-2609-4c85-818a-51738ef47a35)
 
 [Xterm.js](https://xtermjs.org/) 를 이용하여 웹 사이트에 fake terminal 을 구현합니다.
 
