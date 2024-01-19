@@ -2,7 +2,7 @@
 
 [Xterm.js](https://xtermjs.org/) 를 이용하여 웹 사이트에 fake terminal 을 구현합니다.
 
-데모를 확인해보세요.
+데모를 확인해보세요. [DEMO](https://hwantage.github.io/fake-terminal/demo/)
 
 ## 시작하기
 
@@ -36,7 +36,7 @@ npm install xterm
 
 브라우저를 통해 index.html 파일을 실행하면 다음과 같은 결과를 확인할 수 있습니다.
 
-![](../assets/20240119_104159_image.png)
+![](https://github.com/hwantage/fake-terminal/assets/82494320/05b54f15-8c5c-495d-a9c0-1b32655855e6)
 
 # 코드 작성 방법
 
@@ -46,12 +46,12 @@ xterm 의 [공식 문서](https://xtermjs.org/docs/api/terminal/classes/terminal
 
 본 프로젝트에서 사용한 method의 목록은 다음과 같습니다.
 
-- open : 원하는 html 객체에 터미널을 생성합니다.
-- write : 텍스트를 출력합니다.
-- writeln : 텍스트를 라인단위로 출력합니다.
-- onKey : 키보드 입력 이벤트를 처리합니다.
-- focus : 터미널 커서를 포인트 합니다.
-- dispose : 터미널을 dispose 합니다.
+- `open` : 원하는 html 객체에 터미널을 생성합니다.
+- `write` : 텍스트를 출력합니다.
+- `writeln` : 텍스트를 라인단위로 출력합니다.
+- `onKey` : 키보드 입력 이벤트를 처리합니다.
+- `focus` : 터미널 커서를 포인트 합니다.
+- `dispose` : 터미널을 dispose 합니다.
 
 # 스타일링
 
@@ -95,12 +95,11 @@ ANSI Escape 코드를 이용하여 글자색, 전경색 등을 스타일링 할 
 
 ## 사용법 및 사용 예
 
-![](https://velog.velcdn.com/images/octo__/post/7da1ae70-70af-4c65-b2d3-aded41ea8406/image.png)
-
+![image](https://github.com/hwantage/fake-terminal/assets/82494320/e5f4df69-c08d-4a4b-a9ee-6e9e3b711faa)
 출처 : https://velog.io/@octo__/ANSI-color-code
 
 # Repo
 
 git : https://github.com/hwantage/fake-terminal.git
 
-demo :
+demo : https://hwantage.github.io/fake-terminal/demo/
