@@ -38,6 +38,8 @@ npm install xterm
 
 ![](https://github.com/hwantage/fake-terminal/assets/82494320/05b54f15-8c5c-495d-a9c0-1b32655855e6)
 
+아직까지는 아무런 동작을 하지 않습니다. 키보드 이벤트를 추가하고 제어 코드를 작성해야 합니다.
+
 # 코드 작성 방법
 
 xterm 의 [공식 문서](https://xtermjs.org/docs/api/terminal/classes/terminal/)에서 사용가능한 Method 를 확인하고 원하는 기능을 구현합니다.
