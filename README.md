@@ -4,6 +4,8 @@
 
 데모를 확인해보세요. [DEMO](https://hwantage.github.io/fake-terminal/demo/)
 
+한글 입력이 가능한 terminal 데모도 확인해보세요.[DEMO](https://hwantage.github.io/fake-terminal/demo/kor_term.html)
+
 ## 시작하기
 
 먼저, 모듈을 설치해야 합니다.  [npm](https://www.npmjs.com/)을 통해서만 제공 되므로 다음을 실행하여 xterm.js를 해당 모듈을 종속성으로 추가해야 합니다.
